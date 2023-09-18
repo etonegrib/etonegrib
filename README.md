@@ -5,7 +5,6 @@
 this is my profile
 
 here I look at different cool projects
-I'm currently working on a history 
+I'm currently working on a history project
 
-project
 I hope you like my projects
